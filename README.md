@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**venera111/venera111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm Yana
 
 - 🔭 I’m currently working on creating a library for training neural networks
 - 🌱 I’m currently learning at School21 (Russia, Kazan) https://21-school.ru/
