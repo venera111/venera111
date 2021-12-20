@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning at School21 (Russia, Kazan) https://21-school.ru/
 - 🐍 I am learning Computer Vision, Python, C and C++
 - 😊 Always happy to help, especially if you are trying something new!
-- 💞️ I’m looking to collaborate on open source code
+- 💻 I’m looking to collaborate on open source code
 - 📫 How to reach me: telegram: @yana_arcobaleno
-- 😄 Pronouns: she/her
+- 👩🏼 Pronouns: she/her
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venera111&exclude_repo=sql,statistics,customer_churn,tariff_analysis,research_on_the_reliability_of_borrowers,research_on_apartment_listings)](https://github.com/anuraghazra/github-readme-stats)
