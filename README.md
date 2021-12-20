@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on creating a library for training neural networks
 - 🌱 I’m currently learning at School21 (Russia, Kazan) https://21-school.ru/
 - 🐍 I am learning Computer Vision, Python, C and C++
-- 😊 Always happy to help, especially if you are trying something new!
 - 💻 I’m looking to collaborate on open source code
 - 📫 How to reach me: telegram: @yana_arcobaleno
 - 👩🏼 Pronouns: she/her
