@@ -13,3 +13,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venera111&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 <hr style="border:2px solid gray"> </hr>
+
+
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venera111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
