@@ -11,7 +11,7 @@
 - 😄 Pronouns: she/her
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venera111&exclude_repo=sql,statistics,customer_churn,tariff_analysis)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venera111&exclude_repo=sql,statistics,customer_churn,tariff_analysis,research_on_the_reliability_of_borrowers)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venera111&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
