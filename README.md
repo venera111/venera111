@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Yana
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/venera111#:~:text=Kazan%2C%20Russia-,lysovayana%40mail.ru,-venera111)
+[![G-Mail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto://lisyatnizza@gmail.com)(https://github.com/venera111#:~:text=Kazan%2C%20Russia-,lysovayana%40mail.ru,-venera111)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yana_arcobaleno)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yana-lysova)
 - 🔭 I’m currently working on creating a library for training neural networks
