@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yana-lysova)
 - 🔭 I’m currently working on creating a library for training neural networks
 - 🌱 I’m currently learning at Ecole42 https://42.fr/en/homepage/ (School21 Russia, Kazan https://21-school.ru/)
-- 🐍 I am learning Computer Vision, Python, C and C++
+- 🐍 I am learning Computer Vision, NLP, Python, C and C++
 - 💻 I’m looking to collaborate on open source code
 - 👩🏼 Pronouns: she/her
 
