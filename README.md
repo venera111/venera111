@@ -13,7 +13,7 @@
 
 My_progress
 ---
-![qestefan's stats](https://badge42.herokuapp.com/api/stats/qestefan)
+![qestefan's stats]()
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venera111&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
