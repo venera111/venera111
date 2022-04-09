@@ -10,8 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venera111&exclude_repo=sql,statistics,customer_churn,tariff_analysis,research_on_the_reliability_of_borrowers,research_on_apartment_listings,rate_recommendation)](https://github.com/anuraghazra/github-readme-stats)
 
-My_progress
----
 [![qestefan's 42 stats](https://badge42.vercel.app/api/v2/cl1rp1mrd005409mk7zwps9om/stats?cursusId=21&coalitionId=98)](https://github.com/JaeSeoKim/badge42)
 
 
