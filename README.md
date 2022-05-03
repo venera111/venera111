@@ -7,7 +7,4 @@
 - 💻 I’m looking to collaborate on open source code
 - 👩🏼 Pronouns: she/her
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venera111&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-<hr style="border:2px solid gray"> </hr>
-
 [![qestefan's 42 stats](https://badge42.vercel.app/api/v2/cl1rp1mrd005409mk7zwps9om/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
